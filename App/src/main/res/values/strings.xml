@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Liftaday</string>
+    <string name="setting">Settings</string>
+    <string name="kickstart_your_new_day">Kickstart_your_new_day</string>
+    <string name="liftaday">Liftaday</string>
+    <string name="todo">TODO</string>
+    <string name="save">Save</string>
+    <string name="new1">Coronavirus: China accuses US of causing panic and \"spreading fear\"</string>
+    <string name="news1"> The Chinese government has accused the US of causing "panic" in its response to the
+                    deadly coronavirus outbreak.
+                    It follows the US decision to declare a public health emergency and deny entry to
+                    foreign nationals who had visited China in the past two weeks.
+                    There are more than 17,000 confirmed cases of the virus in China. Some 361 people
+                    have died in the mainland alone.
+                    Outside China, there are more than 150 confirmed cases of the virus - and one death,
+                    in the Philippines.</string>
+    <string name="new2">Koalas found dead on Australia logging plantation</string>
+    <string name="news2">  Dozens of koalas have been found dead or injured
+                    at a timber plantation in the Australian state of Victoria, sparking an
+                    investigation by officials.
+                    Blue gum trees - an important koala habitat - were harvested from the plantation in
+                    December, leaving only a few isolated stands of trees.
+                    Some koalas had starved to death in the remaining trees. Others were apparently
+                    killed by bulldozers.
+                    About 80 surviving koalas have been removed and are being cared for.</string>
+    <string name="new3">Brexit: Boris Johnson sets out vision of UK-EU trade deal</string>
+    <string name="news3"> Boris Johnson is to set out his vision for a trade deal with the European Union,
+                    saying there is "no need" for the UK to follow Brussels\' rules
+                    The PM will call for a Canada-style free trade agreement - and threaten to walk away
+                    if one cannot be struck.
+                    It comes as the EU\'s Michel Barnier says its "ambitious" trade deal offer requires a
+                    "level playing field" and reciprocal access to fishing waters.
+                    The Irish PM has also said the UK needs to agree to a level playing field.
+                    Under the EU-Canada deal, import tariffs on most goods have been eliminated between
+                    the two countries, though there are still customs and VAT checks.</string>
+    <string name="tip1">Exercise tips</string>
+    <string name="tip1s">You might want to push straight to your desired speed while out running, or you think it’s okay to sneak into your workout class after warm-up or leave without doing the cool-down session.
+        Don’t! It’s important to warm up and cool down properly to prepare your muscles for the workout ahead, and to speed up recovery and avoid injury.</string>
+    <string name="tip2">Don’t skip breakfast</string>
+    <string name="tip2s">Studies show that eating a proper breakfast is one of the most positive things
+        you can do if you are trying to lose weight. Breakfast skippers tend to gain weight. A balanced
+        breakfast includes fresh fruit or fruit juice, a high-fibre breakfast cereal, low-fat milk or yogurt,
+        wholewheat toast, and a boiled egg.</string>
+    <string name="tip_sleept">Sleep tips</string>
+    <string name="tip_sleep">A melatonin supplement is an easy way to improve sleep quality and fall asleep faster.
+        Take 1–5 mg around 30–60 minutes before heading to bed. Also,long daytime naps may impair sleep quality.
+        If you have trouble sleeping at night, stop napping or shorten your naps.</string>
+    <string name="clothes_tip1">Coats and sweaters are the best for winter!</string>
+    <string name="clothes_tip2">Bring your hat, scarf and gloves to keep warm!</string>
+    <string-array name="Week_date">
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+    </string-array>
+    <string name="Name">Good morning\n%1$s!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    ————————————————
+    版权声明：本文为CSDN博主「qa962839575」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+    原文链接：https://blog.csdn.net/qa962839575/article/details/41594901
+</resources>

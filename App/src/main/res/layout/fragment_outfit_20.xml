@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"/>
+
+
+        <TextView
+            android:id="@+id/tv_clothes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Clothes"
+            android:textStyle="italic"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:textSize="30dp"/>
+
+
+        <RelativeLayout
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center">
+            <ImageView
+                android:id="@+id/male_coat"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/shirt_male_20"/>
+            <ImageView
+                android:id="@+id/shortpants"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/short_20"
+                android:layout_toRightOf="@+id/male_coat"
+                android:layout_marginLeft="17dp"/>
+            <ImageView
+                android:id="@+id/shirt_20"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/shirt_20"
+                android:layout_toRightOf="@+id/shortpants"
+                android:layout_marginLeft="17dp"/>
+            <ImageView
+                android:id="@+id/skirt"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/skirt"
+                android:layout_toRightOf="@+id/shirt_20"
+                android:layout_marginLeft="17dp"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/dress"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/dress"/>
+            <ImageView
+                android:id="@+id/shose_male"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/shoes_20"
+                android:layout_toRightOf="@+id/dress"
+                android:layout_marginLeft="17dp"/>
+            <ImageView
+                android:id="@+id/shose_female"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/highheels_20"
+                android:layout_toRightOf="@+id/shose_male"
+                android:layout_marginLeft="17dp"/>
+
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_accessories"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Accessories"
+            android:textStyle="italic"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"/>
+        <RelativeLayout
+            android:layout_width="330dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/suncream"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_marginLeft="50sp"
+                android:src="@drawable/suncream" />
+
+            <ImageView
+                android:id="@+id/pamela_hat"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/pamela_hat"
+                android:layout_toRightOf="@+id/suncream"
+                android:layout_marginLeft="17dp"/>
+            <ImageView
+                android:id="@+id/pamela"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:src="@drawable/sunglasses"
+                android:layout_toRightOf="@+id/pamela_hat"
+                android:layout_marginLeft="17dp"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</ScrollView>
